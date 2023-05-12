@@ -15,3 +15,7 @@ goals:
     - kill and delete executables
     - delete and replace original hosts list
     - delete uninstaller
+
+block list/tools links:
+ - https://d3ward.github.io/toolz/adblock.html
+ - https://www.reddit.com/r/pihole/comments/ua8v0a/block_lists/
